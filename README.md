@@ -12,8 +12,5 @@ A passionate frontend developer and little of backend developer from India<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codewithsaurabhyadav&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=saurabh_yadabv_7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
